@@ -92,7 +92,7 @@ Burn-in testing involves subjecting the semiconductor package to elevated temper
 Final testing is conducted across a range of temperatures—typically at both low (cold) and high (hot) extremes—to validate the functional, parametric, and reliability specifications of the package. This includes verifying timing, current leakage, and thermal behavior to ensure that the device performs consistently under various environmental conditions. High-temperature testing, in particular, is crucial for confirming that the semiconductor package can operate within specified thermal limits without degradation or failure.
 Collectively, these validation steps are essential for guaranteeing the robustness and longevity of semiconductor devices. They play a vital role in maintaining quality standards and customer confidence in high-performance, mission-critical electronic systems.
 
- ** V.	Package Design and Modelling: Building A Semiconductor Package from Scratch**
+**V.	Package Design and Modelling: Building A Semiconductor Package from Scratch** 
 
 In this section a wire bonding package is created with clear explanation and step by step guidance.  
 
